@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DefesaCivilApplication<DefesaCivil>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.gov.api.DefesaCivil.DefesaCivilApplication",
+            "projectName": "DefesaCivil",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
